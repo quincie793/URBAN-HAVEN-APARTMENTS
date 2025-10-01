@@ -263,6 +263,9 @@ h2 {
 form {
   display: flex;
   flex-direction: column;
+  width: 90%;
+  max-width: 100rem;
+  margin: 0 auto;
 }
 
 form input,
